@@ -24,6 +24,7 @@ public class AnotherRealityRePlace : MonoBehaviour
         DetectTouch();
     }
 
+
     private void DetectTouch()
     {
         if (Input.touchCount>0)
